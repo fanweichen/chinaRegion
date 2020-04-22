@@ -1,8 +1,9 @@
 # chinaRegion
 a js for china region
-
+#### INTRODUCE 
+该js中已经包含了包括全国行政区划信息，您也可以按照本js内的格式自行替换更新的全国行政区划信息版本
 #### REQUIRE 
-this js requires jQuery
+this js requires jQuery<br>
 使用该js请加载jQuery
 #### USAGE 
 ```
